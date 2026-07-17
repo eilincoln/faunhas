@@ -75,3 +75,32 @@ span {
 .secao-sobre img {
   width: 450px;
 }
+
+.secao-servicos {
+  background-color: #3a0007;
+  color: #ffffff;
+}
+
+.secao-servicos h2 {
+  font-size: 28px;
+  line-height: 42px;
+}
+
+.secao-servicos p {
+  line-height: 42px;
+  font-size: 22px;
+  text-align: center;
+  width: 700px;
+  color: #ffffff;
+}
+
+.secao-servicos ul {
+  margin: 40px auto;
+  width: 320px;
+}
+
+.secao-servicos ul li {
+  line-height: 42px;
+  font-size: 22px;
+  text-align: left;
+}
