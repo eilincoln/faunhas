@@ -30,3 +30,25 @@ span {
 .texto-destaque-claro {
   color: #fff1b8;
 }
+
+.primeira-secao {
+  background-color: #ffdce3;
+}
+
+.primeira-secao img {
+  width: 150px;
+}
+
+.primeira-secao p {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+.primeira-secao p a {
+  font-size: 18px;
+  color: #3a0007;
+  border-bottom: 2px solid #3a0007;
+  text-decoration: none;
+  margin: 0px 10px;
+}
