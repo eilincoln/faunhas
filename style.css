@@ -1,0 +1,32 @@
+body {
+  margin: 0px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fff5f7;
+}
+
+div {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+p {
+  margin: 10px auto;
+  width: 980px;
+  text-align: justify;
+  font-size: 18px;
+  line-height: 28px;
+  color: #3a0007;
+}
+
+span {
+  font-weight: bold;
+}
+
+.texto-destaque {
+  color: #c81b31;
+}
+
+.texto-destaque-claro {
+  color: #fff1b8;
+}
