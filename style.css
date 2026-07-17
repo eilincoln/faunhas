@@ -52,3 +52,26 @@ span {
   text-decoration: none;
   margin: 0px 10px;
 }
+
+.secao-banner {
+  margin-top: 50px;
+  padding-top: 0px;
+}
+
+.secao-banner img {
+  width: 980px;
+}
+
+.secao-sobre h1 {
+  color: #3a0007;
+  margin-bottom: 5px;
+}
+
+.secao-sobre h2 {
+  font-weight: normal;
+  color: #c81b31;
+}
+
+.secao-sobre img {
+  width: 450px;
+}
